@@ -1,6 +1,6 @@
 ### 🙏 नमस्ते, I'm Ayushi Mahobia 👋
 
-<h3>A passionate Frontend Developer 🚀 & Programmer.</h3>
+<h3>A passionate Developer 🚀 & Programmer from India.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ayushimahobia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushimahobia/)](https://www.linkedin.com/in/ayushimahobia/)
 [![GitHub imbmali](https://img.shields.io/github/followers/ayushimahobia?label=follow&style=social)](https://github.com/ayushimahobia)
@@ -9,7 +9,10 @@
 
 - 😄 Pronouns: She/Her 👧
 - ⚡ I’m currently learning Full Stack Development.
-- ⚡ Fun fact: Every day I learn some new behind-the-scenes technology used in any tech product.
+- 💬 Ask me anything about Data Structures & Algorithms.
+- 🤔 I’m looking forward to helping my fellow colleagues & Juniors to learn new tech stacks.
+- ⚡ Fun: Every day I learn some new behind-the-scenes technology used in any tech product.
+
 
 ### Languages & Tools:
 
