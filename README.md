@@ -3,7 +3,7 @@
 <h3>A passionate Developer 🚀 & Programmer from India.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ayushimahobia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushimahobia/)](https://www.linkedin.com/in/ayushimahobia/)
-[![GitHub imbmali](https://img.shields.io/github/followers/ayushimahobia?label=follow&style=social)](https://github.com/ayushimahobia)
+[![GitHub ayushimahobia](https://img.shields.io/github/followers/ayushimahobia?label=follow&style=social)](https://github.com/ayushimahobia)
 
 ### About Me:
 
